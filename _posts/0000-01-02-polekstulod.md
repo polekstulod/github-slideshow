@@ -3,5 +3,5 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 
-Your text
+Micah my love
 Use the left arrow to go back!
